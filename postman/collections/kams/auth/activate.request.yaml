@@ -1,0 +1,10 @@
+$kind: http-request
+description: "Generated from cURL: curl -X POST {{baseUrl}}/api/auth/activate -H \"Content-Type: application/json\" -d '{\"email\": \"\", \"otp\": \"\"}'"
+url: "{{baseUrl}}/api/auth/activate"
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: '{"email": "", "otp": ""}'
+order: 1000

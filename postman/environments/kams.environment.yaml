@@ -1,0 +1,5 @@
+name: kams
+values:
+  - key: authToken
+    enabled: true
+    value: ''
