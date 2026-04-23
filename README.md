@@ -1,6 +1,7 @@
 # 🔐 KAMS – Key & Asset Management System
 
 A secure, scalable backend system for managing **venue keys, assets, borrowing workflows, and condition tracking** within institutions (e.g., universities).
+<img width="1024" height="1536" alt="ChatGPT Image Apr 23, 2026, 05_57_18 AM" src="https://github.com/user-attachments/assets/61cb36e5-3c72-4aed-a99c-e39f716aefe2" />
 
 ---
 
@@ -50,6 +51,7 @@ KAMS digitizes the process of:
 
 ---
 
+<img width="1968" height="958" alt="assets key" src="https://github.com/user-attachments/assets/401f77d2-3c45-4d5c-9b51-1b9ff3bf61b0" />
 ### 🛠 Repair Workflow
 
 * Damaged assets reported with images
@@ -235,13 +237,12 @@ Authorization: Bearer <token>
 
 ## 📌 Future Improvements
 
-* Redis-based JWT <img width="1968" height="958" alt="assets key" src="https://github.com/user-attachments/assets/401f77d2-3c45-4d5c-9b51-1b9ff3bf61b0" />
+* Redis-based JWT 
 blacklist
 * Multi-device session management
 * Audit logging system
 * Microservices architecture
 * Notification system (email/SMS)
-<img width="1024" height="1536" alt="ChatGPT Image Apr 23, 2026, 05_57_18 AM" src="https://github.com/user-attachments/assets/61cb36e5-3c72-4aed-a99c-e39f716aefe2" />
 
 ## 📄 License
 
