@@ -1,5 +1,0 @@
-name: Globals
-values:
-  - key: auth-token
-    value: ''
-    enabled: true

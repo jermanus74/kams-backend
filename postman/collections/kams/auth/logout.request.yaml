@@ -1,7 +1,0 @@
-$kind: http-request
-description: 'Generated from cURL: curl -X POST {{baseUrl}}/api/auth/logout -H "Authorization: Bearer {{authToken}}"'
-url: "{{baseUrl}}/api/auth/logout"
-method: POST
-headers:
-  Authorization: Bearer {{authToken}}
-order: 4000
